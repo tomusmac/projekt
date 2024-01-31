@@ -1,0 +1,1 @@
+.\Maraton.exe -i .\maratony\fiata.txt .\maratony\gliwicki.txt .\maratony\kierpce.txt .\maratony\silesia.txt .\maratony\warszawski.txt
