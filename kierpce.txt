@@ -1,0 +1,12 @@
+Brenskie kierpce
+2023-03-20
+5, Kaczmarek, 505, 03:07:08
+3, Wiśniewski, 303, 02:48:15
+4, Nowicki, 404, 03:01:57
+1, Kowalski, 202, 02:56:43
+2, Nowak, 101, 02:52:29
+6, Zając, 606, 03:10:15
+7, Lewandowski, 707, 03:15:48
+8, Kwiatkowski, 808, 03:24:23
+10, Wójcik, 909, 03:37:02
+9, Szymański, 1010, 03:30:40

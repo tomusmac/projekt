@@ -1,0 +1,12 @@
+Silesia Maraton
+2023-04-25
+2, Kowalski, 202, 02:36:40
+3, Wiśniewski, 303, 02:42:05
+4, Nowicki, 404, 02:52:25
+5, Kaczmarek, 505, 02:57:36
+1, Nowak, 101, 02:31:18
+6, Zając, 606, 03:05:50
+7, Lewandowski, 707, 03:11:23
+8, Kwiatkowski, 808, 03:19:58
+9, Wójcik, 909, 03:26:15
+10, Szymański, 1010, 03:33:37

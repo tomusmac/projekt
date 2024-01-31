@@ -1,0 +1,12 @@
+Bieg fiata
+2023-02-10
+3, Wiśniewski, 303, 02:45:23
+5, Kaczmarek, 505, 02:55:48
+2, Kowalski, 202, 02:40:12
+1, Nowak, 101, 02:34:56
+4, Nowicki, 404, 02:50:37
+10, Zając, 606, 03:25:59
+7, Lewandowski, 707, 03:03:45
+8, Kwiatkowski, 808, 03:12:20
+9, Wójcik, 909, 03:18:37
+6, Szymański, 1010, 02:58:12

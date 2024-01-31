@@ -1,0 +1,12 @@
+Maraton Gliwicki
+2023-05-15
+3, Kowalski, 202, 02:45:40
+2, Nowak, 101, 02:41:55
+5, Kaczmarek, 505, 02:52:12
+4, Nowicki, 404, 02:47:01
+1, Wiśniewski, 303, 02:37:30
+6, Zając, 606, 02:55:05
+10, Lewandowski, 707, 03:22:52
+8, Kwiatkowski, 808, 03:09:13
+9, Wójcik, 909, 03:15:30
+7, Szymański, 1010, 03:00:38

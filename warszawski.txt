@@ -1,0 +1,12 @@
+Maraton Warszawski
+2023-06-28
+4, Nowicki, 404, 02:53:14
+3, Wiśniewski, 303, 02:47:10
+2, Nowak, 101, 02:42:45
+5, Kaczmarek, 505, 02:58:25
+1, Kowalski, 202, 02:39:20
+6, Zając, 606, 02:46:55
+7, Lewandowski, 707, 02:52:28
+8, Kwiatkowski, 808, 03:01:03
+9, Wójcik, 909, 03:07:20
+10, Szymański, 1010, 03:14:42
